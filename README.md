@@ -1,4 +1,4 @@
 README.md
 =========
-I Implement Snail Algorighm by that Using Visual Studio 2013 and C/C++.
-this Application Confirm Microsoft Windows but I don't run test Other Operating Systems. (Linux, OSX, Unix)
+I implement Snail Algorighm by that Using supported C/C++ by Visual Studio 2013.
+this application runs confirm Microsoft Windows but I don't test other Operating Systems. (like Linux, OSX and Unix operating systems.)
